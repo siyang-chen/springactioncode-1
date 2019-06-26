@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter001/chapter001.iml" filepath="$PROJECT_DIR$/chapter001/chapter001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter001/chapter001.iml" filepath="$PROJECT_DIR$/chapter001/chapter001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/chapter02/chapter02.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/chapter02/chapter02.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/chapter03/chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/chapter03/chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenpractice/mavenpractice.iml" filepath="$PROJECT_DIR$/mavenpractice/mavenpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/mavenpractice/mavenpractice.iml" filepath="$PROJECT_DIR$/mavenpractice/mavenpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springactioncode.iml" filepath="$PROJECT_DIR$/springactioncode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springactioncode-1.iml" filepath="$PROJECT_DIR$/.idea/springactioncode-1.iml" />
     </modules>
   </component>
 </project>

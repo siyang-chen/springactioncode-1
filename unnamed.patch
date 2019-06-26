@@ -1,0 +1,39 @@
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(revision 2d1d3641b847d5436e99108fb0ec077ce75657e2)
++++ .idea/compiler.xml	(revision )
+@@ -22,6 +22,7 @@
+       <module name="chapter03" target="1.5" />
+       <module name="mavenpractice" target="1.5" />
+       <module name="springactioncode" target="1.5" />
++      <module name="springactioncode-1" target="1.5" />
+       <module name="springmvcxml" target="1.5" />
+     </bytecodeTargetLevel>
+   </component>
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision 2d1d3641b847d5436e99108fb0ec077ce75657e2)
++++ .idea/modules.xml	(revision )
+@@ -3,10 +3,15 @@
+   <component name="ProjectModuleManager">
+     <modules>
+       <module fileurl="file://$PROJECT_DIR$/chapter001/chapter001.iml" filepath="$PROJECT_DIR$/chapter001/chapter001.iml" />
++      <module fileurl="file://$PROJECT_DIR$/chapter001/chapter001.iml" filepath="$PROJECT_DIR$/chapter001/chapter001.iml" />
++      <module fileurl="file://$PROJECT_DIR$/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/chapter02/chapter02.iml" />
+       <module fileurl="file://$PROJECT_DIR$/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/chapter02/chapter02.iml" />
+       <module fileurl="file://$PROJECT_DIR$/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/chapter03/chapter03.iml" />
++      <module fileurl="file://$PROJECT_DIR$/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/chapter03/chapter03.iml" />
++      <module fileurl="file://$PROJECT_DIR$/mavenpractice/mavenpractice.iml" filepath="$PROJECT_DIR$/mavenpractice/mavenpractice.iml" />
+       <module fileurl="file://$PROJECT_DIR$/mavenpractice/mavenpractice.iml" filepath="$PROJECT_DIR$/mavenpractice/mavenpractice.iml" />
+       <module fileurl="file://$PROJECT_DIR$/springactioncode.iml" filepath="$PROJECT_DIR$/springactioncode.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/springactioncode-1.iml" filepath="$PROJECT_DIR$/.idea/springactioncode-1.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file

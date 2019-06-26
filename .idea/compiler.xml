@@ -22,6 +22,7 @@
       <module name="chapter03" target="1.5" />
       <module name="mavenpractice" target="1.5" />
       <module name="springactioncode" target="1.5" />
+      <module name="springactioncode-1" target="1.5" />
       <module name="springmvcxml" target="1.5" />
     </bytecodeTargetLevel>
   </component>
